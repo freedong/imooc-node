@@ -1,0 +1,22 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "shopping前端代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedong/shopping.git"
+  },
+  "author": "zxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedong/shopping/issues"
+  },
+  "homepage": "https://github.com/freedong/shopping#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
+}
