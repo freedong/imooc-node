@@ -1,0 +1,14 @@
+/*
+* @Author: Zhu Xiaodong
+* @Date:   2018-03-21 11:30:44
+* @Last Modified by:   Zhu Xiaodong
+* @Last Modified time: 2018-03-21 17:34:50
+*/
+/*index页面样式*/
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background:url(../../image/about_bg.png) no-repeat;
+}

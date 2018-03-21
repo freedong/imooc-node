@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-	<script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
-	<script type="text/javascript" src="../../dist/js/index.js"></script>
-</head>
+	<!-- html-webpack-plugin   html处理插件是支持ejs语法的,所以可以在html页面中使用ejs语法。 -->
+	<!-- 文件需要用html-loader插件执行 -->
+	<%= require('html-loader!./layout/html-head.html') %>
 <body>
-	
+	<script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
 </body>
 </html>
