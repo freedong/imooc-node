@@ -6,6 +6,7 @@ bin-release/
 [Bb]in/ # FlashDevelop bin
 
 .DS_Store
+/bower_components/
 /node_modules/
 /dist/
 
