@@ -1,0 +1,23 @@
+{
+  "name": "imooc",
+  "description": "node+express 搭建电影网站",
+  "main": "app.js",
+  "authors": [
+    "zxd"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/freedong/imooc-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}

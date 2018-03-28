@@ -1,18 +1,30 @@
 {
+<<<<<<< HEAD
   "name": "shopping",
   "version": "1.0.0",
   "description": "前后端分离项目",
   "main": "index.js",
+=======
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "node+express 搭建电影网站",
+  "main": "app.js",
+>>>>>>> 1d26fd9f88c37c33e97624a8cb660274d191d0bf
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/freedong/shopping.git"
+=======
+    "url": "git+https://github.com/freedong/imooc-node.git"
+>>>>>>> 1d26fd9f88c37c33e97624a8cb660274d191d0bf
   },
   "author": "zxd",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/freedong/shopping/issues"
   },
   "homepage": "https://github.com/freedong/shopping#readme",
@@ -27,5 +39,16 @@
     "url-loader": "^1.0.1",
     "webpack": "^1.15.0",
     "webpack-dev-server": "^1.16.5"
+=======
+    "url": "https://github.com/freedong/imooc-node/issues"
+  },
+  "homepage": "https://github.com/freedong/imooc-node#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "moment": "^2.21.0",
+    "mongoose": "^5.0.11"
+>>>>>>> 1d26fd9f88c37c33e97624a8cb660274d191d0bf
   }
 }
